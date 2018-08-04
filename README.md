@@ -157,6 +157,4 @@ Stop listen to server events.
 Command | Description
 ------- | -----------
 `npm run check` | Check standard code style by [snazzy](https://www.npmjs.com/package/snazzy)
-`npm run build` | Wrap source code in [UMD](https://github.com/umdjs/umd) by [rollup](http://rollupjs.org/)
 `npm run test` | Run tests by [tape](https://github.com/substack/tape) and compute code coverage by [nyc](https://github.com/bcoe/nyc)
-`npm run min` | Minify code by [UglifyJS2](https://github.com/mishoo/UglifyJS2)
